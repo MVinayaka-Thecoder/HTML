@@ -1,0 +1,5 @@
+1) Arrays
+2) Sorting(Bubble sort, merge sort, quick sort, insertion sort)
+3) Searching(Linear search, binary search)
+4) Two pointers -- Patterns
+5) Sliding Windows -- Patterns
